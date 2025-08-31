@@ -23,7 +23,7 @@ Database for permanent storage of users entries and profiles.<br>
 MS Access Driver.<br>
 
 ## PROJECT PREVIEW
-🔮A glimpse into some pages of my project...
+🔮A glimpse into some pages of my project...<br>
 Sign up <br>
 <img width="895" height="673" alt="image" src="https://github.com/user-attachments/assets/4941eec9-3f0e-4f7d-a7bb-a681c8a1d662" />
 
@@ -55,7 +55,7 @@ cd DigitalDiary
 ➡️ Change your password.<br>
 ➡️ Click on About to read about the developers. <br>
 
-## Disclaimer  
+## DISCLAIMER  
   
 This project is a **non-commercial academic model**, created for learning and demonstration purposes only. It is just my **2nd semester's project**, built as part of my coursework. It is not intended for production or commercial use.  
 
