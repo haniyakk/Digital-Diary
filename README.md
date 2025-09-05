@@ -1,4 +1,13 @@
-# DIGITAL DIARY -JAVA PROJECT
+# DIGITAL DIARY -JAVA PROJECT 📱💜
+The Digital Diary Application is a desktop-based Java project built using the NetBeans IDE. It is offered to users who wish to maintain personal diary entries efficiently.
+## TABLE OF CONTENTS
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Preview](#project-preview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Disclaimer](#disclaimer)
+
 ## FEATURES
 • 🪪 Authentication: Sign up, Login, forgot password.<br>
 • 🎯	Core Functionality: Add new entries and load old entries from the DB.<br>
@@ -25,16 +34,16 @@ MS Access Driver.<br>
 ## PROJECT PREVIEW
 🔮A glimpse into some pages of my project...<br>
 Sign up <br>
-<img width="895" height="673" alt="image" src="https://github.com/user-attachments/assets/4941eec9-3f0e-4f7d-a7bb-a681c8a1d662" />
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/4941eec9-3f0e-4f7d-a7bb-a681c8a1d662" />
 
 Login <br>
-<img width="832" height="592" alt="image" src="https://github.com/user-attachments/assets/6417db7f-3c00-4660-8105-04bee1755954" />
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/6417db7f-3c00-4660-8105-04bee1755954" />
 
 My Profile <br>
-<img width="940" height="761" alt="image" src="https://github.com/user-attachments/assets/50d58083-1199-4f5c-8b10-b84a46c49270" />
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/50d58083-1199-4f5c-8b10-b84a46c49270" />
 
 Dashboard <br>
-<img width="955" height="684" alt="image" src="https://github.com/user-attachments/assets/a84fe404-078d-46e6-847c-0ce48f1590e9" />
+<img width="850" height="700" alt="image" src="https://github.com/user-attachments/assets/a84fe404-078d-46e6-847c-0ce48f1590e9" />
 ## INSTALLATION
 Follow these steps to set up and run the project locally:  
 
